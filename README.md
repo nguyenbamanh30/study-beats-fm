@@ -1,4 +1,4 @@
-# StudyBeatsFM 🎶 - An online music player.  
+# BaManhmusic 🎶 - An online music player.  
 
 ## Overview
 
